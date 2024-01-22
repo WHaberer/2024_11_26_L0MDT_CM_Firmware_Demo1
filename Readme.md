@@ -8,9 +8,10 @@
     bla bla
     ```
 
-Author:    Werner Haberer, Electronics Division, MPI for Physics, Munich  
-Moderator: Werner Haberer, Electronics Division, MPI for Physics, Munich  
+Author:    Werner Haberer, Electronics Division, MPI for Physics, Munich
+Moderator: Werner Haberer, Electronics Division, MPI for Physics, Munich
 Date:      22.01.2024
+
 Version:   V1.0    22.01.2024    Test
 
 ## Prerequisites
